@@ -1,6 +1,7 @@
+
 h1 {
     color: rgb(160, 103, 77);
-};
+}
 img {
     width: 400px;
 }
@@ -13,6 +14,7 @@ img {
     text-align:center;
     margin: auto;
 }
+
 #spanId {
     font-size: 18px;
     margin: 50px;
@@ -30,3 +32,4 @@ img {
 body {
     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi2z3HorMMA2UBAyPazmKpUZNWFfrOpp3kRoeTgKIwE-35HMzUKKx639oQ02hYxvxC92s&usqp=CAU');
 }
+
