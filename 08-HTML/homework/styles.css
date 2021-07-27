@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(228, 78, 8);
+    color: rgb(160, 103, 77);
 };
 img {
     width: 400px;
@@ -7,21 +7,26 @@ img {
 #thirdDiv {
     height: 600px;  
     width: 500px;
-    background-color: lightsalmon;
+    background-color: rgb(212, 212, 212);
     padding: 50px;
     border: 18px solid linen;
     text-align:center;
+    margin: auto;
 }
 #spanId {
     font-size: 18px;
     margin: 50px;
     text-align:center;
 }
-#divClass {
+.divClass {
     height: 600px;  
     width: 500px;
-    background-color: lightsalmon;
+    background-color: rgb(212, 212, 212);
     padding: 50px;
     border: 18px solid linen;
     text-align:center;
+    margin: auto;
+}
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi2z3HorMMA2UBAyPazmKpUZNWFfrOpp3kRoeTgKIwE-35HMzUKKx639oQ02hYxvxC92s&usqp=CAU');
 }
