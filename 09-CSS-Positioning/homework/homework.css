@@ -44,8 +44,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Ejercicio 5: */
 #ejercicioCinco {
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 /* Acá va tu código */
@@ -54,15 +53,9 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Ejercicio 6. */
 #ejercicioCinco {
-    display: flex;
-    justify-content: space-around;
-    align-items: center; 
     flex-direction: row-reverse;  
-    margin-left: -10px;
 }
-.span {
-    order: 1;
-}
+
 
 
 
